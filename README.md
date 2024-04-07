@@ -1,1 +1,1 @@
-Optical Character Recognition DL
+Optical Character Recognition Open CV
