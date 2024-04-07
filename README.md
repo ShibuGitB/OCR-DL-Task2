@@ -1,1 +1,1 @@
-Optical Character Recognition Open CV
+Optical Character Recognition OpenCV - Deep Learning
