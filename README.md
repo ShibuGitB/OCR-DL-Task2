@@ -1,2 +1,1 @@
-# OCR-DL-Task2
-Optical Character Recognition - Deep Learning
+# OCR-Open CV-Task2
